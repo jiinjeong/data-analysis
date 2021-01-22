@@ -24,7 +24,16 @@ Some screenshots from the projects: <br><br>
 Project 1: <br>
 ![Screenshot](/app-store/sample/sample-1.png)
 <br><br>
-Projct 2: <br>
+Project 2: <br>
+![Screenshot](/imdb-rating/sample/sample-1.png)
+<br>
+![Screenshot](/imdb-rating/sample/sample-2.png)
+<br>
+![Screenshot](/imdb-rating/sample/sample-3.png)
+<br>
+![Screenshot](/imdb-rating/sample/sample-4.png)
+<br><br>
+Project 3: <br>
 ![Screenshot](/abc-fb/sample/sample-3.png)
 <br>
 ![Screenshot](/abc-fb/sample/sample-5.png)
