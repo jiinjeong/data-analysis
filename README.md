@@ -1,5 +1,6 @@
 # r-data-analysis
-Data analysis using R
+* **Description**: Data analysis using R. I am especially interested in analyzing people's online behavior (Mobile apps, IMDB rating, and social media).
+* **Date**: August - December 2018
 
 ## Project 1: App Store
 Analysis of Apple App Store and Google Play Store applications, focusing on their genre, price, rating, app size, and number of installs. Uses summary statistics, proportional tables, t test, and ggplot visualizations (bar charts, histogram, scatterplot and regression line), and pipe/filter.
