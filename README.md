@@ -27,6 +27,4 @@ Project 1:
 Projct 2:
 ![Screenshot](/abc-fb/sample/sample-3.png)
 <br>
-![Screenshot](/abc-fb/sample/sample-4.png)
-<br>
 ![Screenshot](/abc-fb/sample/sample-5.png)
