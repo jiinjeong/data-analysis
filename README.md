@@ -23,7 +23,7 @@ Analysis of ABC News posts on Facebook to explore what makes a Facebook post suc
 Analysis of a portfolio of six Vanguard mutual funds. Looks at time trends, covariance stationarity, summary statistics of stock and bond funds, Sharpe ratio, future value, Value-at-Risk (Var), and various portfolios (Global Minimum Variance portfolio, tangency portfolio, efficient porfolio).
 
 ## Project 5: Minority Unemployment during COVID-19 (Stata)
-Analysis of the disproportionate impact of COVID-19 on minority unemployment, looking at race and gender. Utilizes Difference-in-Difference and binary choice model (probit).
+Analysis of the disproportionate impact of COVID-19 on minority unemployment, looking at race and gender. Utilizes Difference-in-Difference and binary choice model (probit). I was motivated by this [research](https://www.sciencedirect.com/science/article/abs/pii/S0047272720301511), "Early evidence of the impacts of COVID-19 on minority unemployment" by Couch, Fairlie, and Xu (2020). Their working version can also be found [here](https://www.nber.org/system/files/working_papers/w27246/w27246.pdf).
 
 ## Sample Figures
 Some sample figures from the projects: <br><br>
