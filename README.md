@@ -21,8 +21,12 @@ Analysis of ABC News posts on Facebook to explore what makes a Facebook post suc
 
 ## Screenshots
 Some screenshots from the projects: <br><br>
+Project 1:
 ![Screenshot](/app-store/sample/sample-1.png)
 <br>
-![Screenshot](/abc-fb/sample/sample-1.png)
+Projct 2:
+![Screenshot](/abc-fb/sample/sample-3.png)
 <br>
-![Screenshot](/abc-fb/sample/sample-2.png)
+![Screenshot](/abc-fb/sample/sample-4.png)
+<br>
+![Screenshot](/abc-fb/sample/sample-5.png)
