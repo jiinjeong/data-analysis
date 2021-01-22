@@ -1,6 +1,6 @@
 # r-data-analysis
 * **Description**: Data analysis using R. I am especially interested in analyzing people's online behavior (Mobile apps, IMDB rating, and social media).
-* **Date**: August - December 2018
+* **Date**: August - December 2018; August - December 2020
 
 ## Project 1: App Store
 Analysis of Apple App Store and Google Play Store applications, focusing on their genre, price, rating, app size, and number of installs. Uses summary statistics, proportional tables, t test, and ggplot visualizations (bar charts, histogram, scatterplot and regression line), and pipe/filter.
@@ -18,6 +18,12 @@ Analysis of movie IMDB ratings to devise useful insights into how IMDB ratings a
 Analysis of ABC News posts on Facebook to explore what makes a Facebook post successful and the relationships between Facebook interactions. We hope to gain useful insights into people's usage of social media. Some characteristics we look at include characteristics of each Facebook post (length, type, time postd), overall trend of likes, reactions, and successful posts (which we define as posts with over 10,000 likes). Uses various visualization and analytical tools including Chi-squared test, logistic regression, and time trend.
 * **Code**: [imdb-rating](https://github.com/jiinjeong/r-data-analysis/tree/main/imdb-rating)
 * **Teammate**: Duc Pham
+
+## Project 4: Portfolio Analysis
+Analysis of a portfolio of six Vanguard mutual funds. Looks at time trends, covariance stationarity, summary statistics of stock and bond funds, Sharpe ratio, future value, Value-at-Risk (Var), and various portfolios (Global Minimum Variance portfolio, tangency portfolio, efficient porfolio).
+
+## Project 5: Minority Unemployment during COVID-19 (Stata)
+Analysis of the disproportionate impact of COVID-19 on minority unemployment, looking at race and gender. Utilizes Difference-in-Difference and binary choice model (probit).
 
 ## Sample Figures
 Some sample figures from the projects: <br><br>
