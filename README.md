@@ -10,12 +10,12 @@ Analysis of Apple App Store and Google Play Store applications, focusing on thei
   * [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) collects data from 2010 until 2018 of around 10,000 Android mobile applications. <br>
 
 ## Project 2: IMDB Rating
-Analysis of movie IMDB ratings to devise useful insights into how IMDB ratings are determined by different factors. Some characteristics we look at include social media likes (director likes, cast total likes, movie Facebook likes), promotion (number of faces on posters), finacial aspects (budget and gross earning), content and aesthetics (duration, content rating, BW or color, number of genres), year, language, and country.
+Analysis of movie IMDB ratings to devise useful insights into how IMDB ratings are determined by different factors. Some characteristics we look at include social media likes (director likes, cast total likes, movie Facebook likes), promotion (number of faces on posters), finacial aspects (budget and gross earning), content and aesthetics (duration, content rating, BW or color, number of genres), year, language, and country. Uses various visualization and analytical tools, including regression, partial regression, scatterplot, etc.
 * **Code**: [app-store](https://github.com/jiinjeong/r-data-analysis/tree/main/app-store)
 * **Teammate**: Duc Pham
 
 ## Project 3: ABC News on Facebook
-Analysis of ABC News posts on Facebook to explore what makes a Facebook post successful and the relationships between Facebook interactions. We hope to gain useful insights into people's usage of social media. Some characteristics we look at include characteristics of each Facebook post (length, type, time postd), overall trend of likes, reactions, and successful posts (which we define as posts with over 10,000 likes).
+Analysis of ABC News posts on Facebook to explore what makes a Facebook post successful and the relationships between Facebook interactions. We hope to gain useful insights into people's usage of social media. Some characteristics we look at include characteristics of each Facebook post (length, type, time postd), overall trend of likes, reactions, and successful posts (which we define as posts with over 10,000 likes). Uses various visualization and analytical tools including Chi-squared test, logistic regression, and time trend.
 * **Code**: [imdb-rating](https://github.com/jiinjeong/r-data-analysis/tree/main/imdb-rating)
 * **Teammate**: Duc Pham
 
