@@ -9,9 +9,9 @@ Analysis of Apple App Store and Google Play Store applications, focusing on thei
   * [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) collects data from 2010 until 2018 of around 10,000 Android mobile applications. <br><br>
 
 Some screenshots from the findings:
-![Screenshot](appstore/sample-1.png)
-![Screenshot](appstore/sample-2.png)
-![Screenshot](appstore/sample-3.png)
+![Screenshot](/appstore/sample-1.png)
+![Screenshot](/appstore/sample-2.png)
+![Screenshot](/appstore/sample-3.png)
 
 ## Project 2: IMDB Rating
 Analysis of movie IMDB ratings.
