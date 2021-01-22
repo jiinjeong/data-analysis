@@ -6,8 +6,12 @@ Analysis of Apple App Store and Google Play Store applications, focusing on thei
 * **Code**: [abc-fb](https://github.com/jiinjeong/r-data-analysis/tree/main/abc-fb)
 * **Datasets**: Kaggle
   * [Apple iOS App Store](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps/home) contains data of almost 7,200 Apple iOS mobile applications, obtained from iTunes Search API in July 2017.
-  * [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) collects data from 2010 until 2018 of around 10,000 Android mobile applications.
-Some screenshots from the findings: <br><br>
+  * [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) collects data from 2010 until 2018 of around 10,000 Android mobile applications. <br><br>
+
+Some screenshots from the findings:
+![Screenshot](appstore/sample-1.png)
+![Screenshot](appstore/sample-2.png)
+![Screenshot](appstore/sample-3.png)
 
 ## Project 2: IMDB Rating
 Analysis of movie IMDB ratings.
