@@ -24,6 +24,7 @@ Analysis of a portfolio of six Vanguard mutual funds. Looks at time trends, cova
 
 ## Project 5: Minority Unemployment during COVID-19 (Stata)
 Analysis of the disproportionate impact of COVID-19 on minority unemployment, looking at race and gender. Utilizes Difference-in-Difference and binary choice model (probit). I was motivated by this [research](https://www.sciencedirect.com/science/article/abs/pii/S0047272720301511), "Early evidence of the impacts of COVID-19 on minority unemployment" by Couch, Fairlie, and Xu (2020). Their working version can also be found [here](https://www.nber.org/system/files/working_papers/w27246/w27246.pdf).
+* **Datasets**: I used the monthly Current Population Survey (CPS) by the Bureau of Labor Statistics for September 2019 and 2020. I used the versions in the NBER site.
 
 ## Sample Figures
 Some sample figures from the projects: <br><br>
