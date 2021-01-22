@@ -30,8 +30,6 @@ Project 2: <br>
 ![Screenshot](/imdb-rating/sample/sample-2.png)
 <br>
 ![Screenshot](/imdb-rating/sample/sample-3.png)
-<br>
-![Screenshot](/imdb-rating/sample/sample-4.png)
 <br><br>
 Project 3: <br>
 ![Screenshot](/abc-fb/sample/sample-3.png)
