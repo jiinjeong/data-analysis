@@ -10,7 +10,7 @@ Analysis of Apple App Store and Google Play Store applications, focusing on thei
   * [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) collects data from 2010 until 2018 of around 10,000 Android mobile applications. <br>
 
 ## Project 2: IMDB Rating
-Analysis of movie IMDB ratings to devise useful insights into how IMDB ratings are determined by different factors. Some characteristics we look at include social media likes (director likes, cast total likes, movie Facebook likes), promotion (number of faces on posters), finacial aspects (budget and gross earning), content and aesthetics (duration, content rating, BW or color, number of genres), year, language, and country. Uses various visualization and analytical tools, including regression, partial regression, scatterplot, etc.
+Analysis of movie IMDB ratings to devise useful insights into how IMDB ratings are determined by different factors. Some characteristics we look at include social media likes (director likes, cast total likes, movie Facebook likes), promotion (number of faces on posters), finacial aspects (budget and gross earning), content and aesthetics (duration, content rating, BW or color, number of genres), year, language, and country. Uses various visualization and analytical tools, including regression, partial regression, ANOVA, scatterplot, etc.
 * **Code**: [app-store](https://github.com/jiinjeong/r-data-analysis/tree/main/app-store)
 * **Teammate**: Duc Pham
 
@@ -19,8 +19,8 @@ Analysis of ABC News posts on Facebook to explore what makes a Facebook post suc
 * **Code**: [imdb-rating](https://github.com/jiinjeong/r-data-analysis/tree/main/imdb-rating)
 * **Teammate**: Duc Pham
 
-## Screenshots
-Some screenshots from the projects: <br><br>
+## Sample Figures
+Some sample figures from the projects: <br><br>
 Project 1: <br>
 ![Screenshot](/app-store/sample/sample-1.png)
 <br><br>
