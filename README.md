@@ -20,7 +20,7 @@ Analysis of ABC News posts on Facebook to explore what makes a Facebook post suc
 * **Teammate**: Duc Pham
 
 ## Screenshots
-Some screenshots from the projects: <br>
+Some screenshots from the projects: <br><br>
 ![Screenshot](/app-store/sample-1.png)
 <br>
 ![Screenshot](/app-store/sample-2.png)
