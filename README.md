@@ -16,11 +16,11 @@ Some screenshots from the findings: <br>
 ![Screenshot](/app-store/sample-3.png)
 
 ## Project 2: IMDB Rating
-Analysis of movie IMDB ratings.
+Analysis of movie IMDB ratings to devise useful insights into how IMDB ratings are determined by different factors. Some characteristics we look at include social media likes (director likes, cast total likes, movie Facebook likes), promotion (number of faces on posters), finacial aspects (budget and gross earning), content and aesthetics (duration, content rating, BW or color, number of genres), year, language, and country.
 * **Code**: [app-store](https://github.com/jiinjeong/r-data-analysis/tree/main/app-store)
 * **Teammate**: Duc Pham
 
 ## Project 3: ABC News on Facebook
-Analysis of ABC News on Facebook.
+Analysis of ABC News posts on Facebook to explore what makes a Facebook post successful and the relationships between Facebook interactions. We hope to gain useful insights into people's usage of social media. Some characteristics we look at include characteristics of each Facebook post (length, type, time postd), overall trend of likes, reactions, and successful posts (which we define as posts with over 10,000 likes).
 * **Code**: [imdb-rating](https://github.com/jiinjeong/r-data-analysis/tree/main/imdb-rating)
 * **Teammate**: Duc Pham
