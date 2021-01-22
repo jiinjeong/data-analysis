@@ -1,5 +1,5 @@
-# r-data-analysis
-* **Description**: Data analysis using R. I am especially interested in analyzing people's online behavior (Mobile apps, IMDB rating, and social media).
+# data-analysis
+* **Description**: Data analysis using R. I am especially interested in analyzing people's online behavior (Mobile apps, IMDB rating, and social media) and the economy (portfolios, unemployment).
 * **Date**: August - December 2018; August - December 2020
 
 ## Project 1: App Store
